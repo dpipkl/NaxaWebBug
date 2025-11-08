@@ -1,2 +1,1 @@
 # NaxaWebBug
-Web Bug Naxa
